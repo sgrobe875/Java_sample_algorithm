@@ -1,6 +1,3 @@
-// Sarah Grobe
-// CS 224
-// Homework 6 Programming
 // Prim's Algorithm
 
 import java.util.Scanner;
